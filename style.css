@@ -1,0 +1,94 @@
+
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    font-size: 11px; /* Размер основного шрифта в <p></p>  */
+    background-color: #1c2062; /* Цвет фона веб-страницы */
+    font-family: sans-serif, serif; /* Семейство шрифтов */
+}
+@keyframes color-change {
+    0% {
+      color: #000000;
+    }
+  
+    25% {
+      color: #D6FF6B;
+    }
+
+    100% {
+      color: #000000;
+    }
+}
+li {
+    color: #000000; /* Цвет заголовка */
+    font-size: 12px; /* Размер шрифта в пунктах */
+    font-family: sans-serif, serif; /* Семейство шрифтов */
+    background: #D6FF6B; 
+    padding: 0px;
+    text-align: center; 
+    margin: 0;
+    animation: color-change 3s infinite;
+}
+h1 {
+    color: #ffffff; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: sans-serif, serif; /* Семейство шрифтов */
+    background: #5988FF; 
+    padding: 15px;
+    text-align: center; 
+    margin: 0;
+    
+}
+h2 {
+    color: #ffffff; /* Цвет заголовка */
+    font-size: 14px; /* Размер шрифта в пунктах */
+    font-family: sans-serif, serif; /* Семейство шрифтов */
+    background: #5988FF;
+    padding: 15px;
+    text-align: center; 
+    margin: 0;
+}
+h3 {
+    color: #ffffff; /* Цвет заголовка */
+    font-size: 18px; /* Размер шрифта в пунктах */
+    font-family: sans-serif, serif; /* Семейство шрифтов */
+    background: #5988FF; 
+    padding: 15px; 
+    text-align: center; 
+    margin: 0;
+}
+h4 {
+    color: #000000; /* Цвет заголовка */
+    font-size: 60px; /* Размер шрифта в пунктах */
+    font-family: sans-serif, serif; /* Семейство шрифтов */
+    background: #D6FF6B;
+    padding: 60px;
+    text-align: center; 
+    margin: 60;
+}
+
+
+p {
+    color: #ffffff; /* Цвет заголовка */
+    font-size: 22px; /* Размер шрифта в пунктах */
+    font-family: sans-serif, serif; /* Семейство шрифтов */
+    background: #5988FF; 
+    padding: 5px;
+    text-align: center;
+    margin: 0;
+}
+iframe {
+    background: #5988FF; 
+    padding: 60px;
+    text-align: center;
+    margin: 5;
+}
+z1{
+    color: #1c2062; /* Цвет заголовка */
+    font-size: 22px; /* Размер шрифта в пунктах */
+    font-family: sans-serif, serif; /* Семейство шрифтов */
+}
+z3 {
+    color: #1c2062; /* Цвет заголовка */
+    font-size: 22px; /* Размер шрифта в пунктах */
+    font-family: sans-serif, serif; /* Семейство шрифтов */
+}
